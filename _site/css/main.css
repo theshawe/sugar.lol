@@ -1,6 +1,10 @@
 html, body { height: 100%; background-color: #0A0101; color: #E5D9EA; font-family: "Comic Sans MS", futura-pt, sans-serif; font-style: normal; font-size: 22px; text-transform: lowercase; text-align: center; letter-spacing: 0.27em; scroll-behavior: smooth; }
 
-h1 { font-size: 22px; padding: 20vh 0px 0px 0px; }
+header { padding: 20vh 0px 0px 0px; }
+
+header a { text-decoration: none; color: #E5D9EA; }
+
+h1 { font-size: 22px; }
 
 footer { width: 100%; display: flex; position: absolute; bottom: 5vh; }
 

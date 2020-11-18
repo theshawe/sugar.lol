@@ -12,9 +12,17 @@ letter-spacing: 0.27em;
 scroll-behavior: smooth;
 }
 
+header {
+	    padding: 20vh 0px 0px 0px;
+}
+
+header a {
+	text-decoration: none;
+	color: #E5D9EA;
+}
+
 h1 {
     font-size: 22px;
-    padding: 20vh 0px 0px 0px;
 }
 
 footer {
