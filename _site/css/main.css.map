@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"css/custom/home.scss"
+	],
+	"sourcesContent": [
+		"@import \"custom/home\";\n",
+		"html,\nbody {\nheight: 100%;\nbackground-color: #0A0101;\ncolor: #E5D9EA;\nfont-family: \"Comic Sans MS\", futura-pt, sans-serif;\nfont-style: normal;\nfont-size: 22px;\nletter-spacing: 0.27em;\ntext-align: center;\nscroll-behavior: smooth;\n}\n\nh1 {\n    font-size: 22px;\n    padding: 20vh 0px 0px 0px;\n}\n\nfooter {\n    width: 100%;\n    display: flex;\n    position: absolute;\n    bottom: 5vh;\n}\n\n\n@media (max-width: 767.98px) { \n\n\n\n\n }\n\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,EACJ,IAAI,CAAC,EACL,MAAM,EAAE,IAAI,EACZ,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,EACd,WAAW,EAAE,sCAAsC,EACnD,UAAU,EAAE,MAAM,EAClB,SAAS,EAAE,IAAI,EACf,cAAc,EAAE,MAAM,EACtB,UAAU,EAAE,MAAM,EAClB,eAAe,EAAE,MAAM,GACtB;;AAED,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,IAAI,EACf,OAAO,EAAE,gBAAgB,GAC5B;;AAED,AAAA,MAAM,CAAC,EACH,KAAK,EAAE,IAAI,EACX,OAAO,EAAE,IAAI,EACb,QAAQ,EAAE,QAAQ,EAClB,MAAM,EAAE,GAAG,GACd"
+}
